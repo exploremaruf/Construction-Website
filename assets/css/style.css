@@ -189,6 +189,7 @@ a{
 
 .tmain{
     display: flex;
+    width: 100%;
 }
 
 .tfbg{
